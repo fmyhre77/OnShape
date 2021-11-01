@@ -1,6 +1,7 @@
 # OnShape
 ## Skateboard
 <img src="images/Boardpng.png" alt="assembly">
+https://cvilleschools.onshape.com/documents/67a0d2cbc87a9ce9ab1301b7/w/fa9c67b884daed17232e0a12/e/e78c9fe9f413c2e95b7cc839?renderMode=0&uiState=61807599d0016b22ef4bd967
 
 ### Description
 My assignment was to construct a skateboard in OnShape, following a lesson. I had to follow each step exactly because there were assignments asking for the weight of your skateboard, and it had to be within .01 gram of the actual mass.
